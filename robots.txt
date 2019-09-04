@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weingeeng.darcekkvanocumproluciiverilabyszetahledomenabylavolna.sk/sitemap.xml
